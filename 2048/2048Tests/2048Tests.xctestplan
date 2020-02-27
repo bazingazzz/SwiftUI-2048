@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "CB443791-B46F-4BD5-912B-D297AF7B441F",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:twozerofoureight.xcodeproj",
+          "identifier" : "EBC999C72325932E006BA2E7",
+          "name" : "twozerofoureight"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:2048.xcodeproj",
+      "identifier" : "EBC999C72325932E006BA2E7",
+      "name" : "2048"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:twozerofoureight.xcodeproj",
+        "identifier" : "BD42F0342403E48A0019748B",
+        "name" : "twozerofoureightTests"
+      }
+    }
+  ],
+  "version" : 1
+}
