@@ -2,7 +2,7 @@
 
 ###### The 2048 game remake using [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine).
 
-![2048](/Users/bazinga/Downloads/2048-SwiftUI/2048.gif)
+![2048](./2048.gif)
 
 ---
 
